@@ -1,1 +1,4 @@
+gimnasio
+ejercicio
+pesas
 # L
